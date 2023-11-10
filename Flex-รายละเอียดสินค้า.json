@@ -1,0 +1,282 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1169125213695385650/Group_533_1.png?ex=655d7e34&is=654b0934&hm=dfbece57a2bebb25ed5abdaa895c9a515fe502c9d43669e33736c7a78ccc5cdc&",
+                "size": "full",
+                "aspectRatio": "13:1",
+                "aspectMode": "fit"
+              }
+            ],
+            "offsetEnd": "50px"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "อัพเดท: 10/05/65 เวลา: 04.00 น.",
+            "size": "9px",
+            "weight": "bold",
+            "color": "#898988",
+            "align": "end"
+          }
+        ]
+      }
+    ],
+    "paddingAll": "5px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1172332162469609543/image_386.png?ex=655fee68&is=654d7968&hm=1f63ca2846567d442f1ead74ae07ced0ef1bdea984669db2a8fba13d840381a4&",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "2:1"
+              }
+            ],
+            "height": "130px",
+            "justifyContent": "center"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ไม้ฝา_SCG 15x300 ไนท์เกรย์ คลูพลัส",
+            "color": "#373737",
+            "weight": "bold",
+            "size": "12px"
+          }
+        ],
+        "paddingStart": "12px",
+        "paddingEnd": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1,000.00 บาท",
+                "size": "18px",
+                "color": "#c30006",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1090448",
+                "size": "9px",
+                "color": "#c30006",
+                "weight": "bold",
+                "align": "end",
+                "offsetTop": "10px"
+              }
+            ]
+          }
+        ],
+        "margin": "5px",
+        "paddingStart": "12px",
+        "paddingEnd": "12px",
+        "justifyContent": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Stock :",
+                    "gravity": "center",
+                    "size": "10px",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "0",
+                    "size": "10px",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "paddingEnd": "10px"
+              }
+            ],
+            "alignItems": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              }
+            ],
+            "height": "30px",
+            "width": "1px",
+            "backgroundColor": "#D8D8D8"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ราคา LP :",
+                    "gravity": "center",
+                    "size": "10px",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "1000 บาท",
+                    "size": "10px",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              }
+            ],
+            "alignItems": "center",
+            "paddingStart": "10px"
+          }
+        ],
+        "margin": "10px",
+        "height": "39px",
+        "backgroundColor": "#C30006",
+        "justifyContent": "center",
+        "paddingStart": "12px",
+        "paddingEnd": "12px",
+        "alignItems": "center"
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียด",
+            "size": "14px",
+            "weight": "bold",
+            "color": "#c30006"
+          }
+        ],
+        "alignItems": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "height": "30px",
+        "width": "1px",
+        "backgroundColor": "#D8D8D8",
+        "offsetEnd": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แชร์สินค้า",
+            "color": "#c30006",
+            "size": "14px",
+            "weight": "bold"
+          }
+        ],
+        "alignItems": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      }
+    ],
+    "paddingAll": "8px",
+    "alignItems": "center",
+    "justifyContent": "center"
+  }
+}
